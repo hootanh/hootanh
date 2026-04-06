@@ -1,16 +1,13 @@
-## Hi there 👋
+# [Hootan H.]
+> Software & Cybersecurity Engineer 
 
-<!--
-**hootanh/hootanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Core Focus
+- **Agentic AI:** Developing RAG-based systems using LangChain and Copilot Studio.
+- **Secure Automation:** Building HIPAA-compliant Power Platform & SharePoint solutions.
+- **DevOps:** Automating deployments via GitHub Actions and Python scripting.
 
-Here are some ideas to get you started:
+## Tech Stack
+Python / SQL / React / Django / AWS / Azure / Kali Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+"Engineering secure, intelligent systems that don't just work—they think."
