@@ -1,10 +1,10 @@
 # [Hootan H.]
-> Software & Cybersecurity Engineer | Junior Technical Project Manager
+> Software & Cybersecurity Engineer | Technical Project Manager
 
 ## 🎯 Professional Focus
 I bridge the gap between complex engineering and business value, ensuring that AI-driven automation is not only powerful but also secure and scalable.
 
-- **Management:** SDLC Oversight, Agile/Scrum, Stakeholder Communication, Jira Administration.
+- **Management:** SDLC Oversight, Agile/Scrum, Stakeholder Communication, Jira Administration, Asana Administration, Monday Administration.
 - **Agentic AI:** Developing RAG-based systems using LangChain and Copilot Studio.
 - **Secure Automation:** Building HIPAA-compliant Power Platform & SharePoint solutions.
 - **DevOps:** Automating deployments via GitHub Actions and Python scripting.
